@@ -1,4 +1,4 @@
-https://github.com/Sanjayc2008/RDBMS-PROGRAM-20-1U25IT087.githttps://github.com/Sanjayc2008/RDBMS-PROGRAM-20-1U25IT087.gitCREATE TABLE Employee (
+CREATE TABLE Employee (
     emp_id INT PRIMARY KEY,
     emp_name VARCHAR(50),
     department VARCHAR(50),
